@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: be95deebf841fab41a5f0c418c2c4d86
+timeCreated: 1495376089
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: POLAR VORTEX
+  fontNames:
+  - POLAR VORTEX
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
